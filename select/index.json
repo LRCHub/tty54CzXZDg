@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Cry Baby",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-03T10:01:26.361916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cry Baby",
+      "artist": "Klovner I Kamp",
+      "has_synced": false,
+      "path": "select/01_Cry_Baby_Klovner_I_Kamp.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cry Baby",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/02_Cry_Baby_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cry Baby Cry",
+      "artist": "Freedom",
+      "has_synced": false,
+      "path": "select/03_Cry_Baby_Cry_Freedom.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cry Baby",
+      "artist": "Wavves",
+      "has_synced": false,
+      "path": "select/04_Cry_Baby_Wavves.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cry Baby",
+      "artist": "Róisín Murphy",
+      "has_synced": false,
+      "path": "select/05_Cry_Baby_Róisín_Murphy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come Together / Dear Prudence / Cry Baby Cry",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_Come_Together___Dear_Prudence___Cry_Baby_Cry_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Come Together\u0000Dear Prudence\u0000Cry Baby Cry (Transition)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Come_Together\u0000Dear_Prudence\u0000Cry_Baby_Cry_(Transition)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cry Baby Cry",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Cry_Baby_Cry_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cry Baby Cry",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_Cry_Baby_Cry_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cry Baby Cry",
+      "artist": "Throwing Muses",
+      "has_synced": false,
+      "path": "select/10_Cry_Baby_Cry_Throwing_Muses.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cry Baby Cry",
+      "artist": "Katie Melua",
+      "has_synced": false,
+      "path": "select/11_Cry_Baby_Cry_Katie_Melua.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cry Baby Cry",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/12_Cry_Baby_Cry_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Come Together ⁄ Dear Prudence ⁄ Cry Baby Cry",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Come_Together_⁄_Dear_Prudence_⁄_Cry_Baby_Cry_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cry Baby",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/14_Cry_Baby_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cry Baby",
+      "artist": "pig",
+      "has_synced": false,
+      "path": "select/15_Cry_Baby_pig.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cry Baby",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Cry_Baby_Official髭男dism.txt"
+    }
+  ]
+}
